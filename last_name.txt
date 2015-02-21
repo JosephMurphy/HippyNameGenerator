@@ -7,7 +7,7 @@ Plower
 Activist
 Progressive
 Commune-farmer
-Tramp
+SuperTramp
 Vagabond
 Vegan
 Cultivar
@@ -22,3 +22,13 @@ Dancer
 Bum
 Dissident
 Communist
+Smoker
+Bohemian
+Vagrant
+Refugee
+Child
+Gypsy
+Drifter
+Ginsberg
+Nation
+Sage
